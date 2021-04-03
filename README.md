@@ -1,2 +1,2 @@
 # COSC361_Assigments
- All the assignments for Data Structures and Algorithm
+All the assignments for Data Structures and Algorithm
