@@ -11,5 +11,6 @@ The implementations were done in seperate folders and classes
 
 # NOTE
 **The application was programmed in JAVA Eclipse IDE but i have added gitignore so as to be opened in other IDE platforms**
+**All **Data Strucrures** has **README** file for more details about program**
 
 
