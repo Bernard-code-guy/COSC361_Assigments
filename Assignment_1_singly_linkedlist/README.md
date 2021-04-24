@@ -156,4 +156,6 @@ Node head;
 
 ~~~
 
+## Output after running program
 
+![Image](output.png)
